@@ -26,10 +26,11 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=atulya-mukesh&show_icons=true&theme=tokyonight)
-
+![Stats](https://github-readme-stats.vercel.app/api?username=atulya-mukesh&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=1800)
+![Streak](https://streak-stats.demolab.com?user=atulya-mukesh&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atulya-mukesh&layout=compact&theme=tokyonight)
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (add link)
-- Email: (optional)
+- LinkedIn: (https://www.linkedin.com/in/atulyamukesh/)
+- Email: (atulyamukesh.am@gmail.com)
