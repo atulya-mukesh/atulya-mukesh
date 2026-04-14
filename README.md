@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Atulya Mukesh
 
-🚀 B.Tech CSE | JIMS Greater Noida  
-🎯 AI + Web Developer | Hackathon Enthusiast  
-⚡ Management Head @ Hashtag Technical Society  
+🚀 **B.Tech CSE'28| GGS IPU  **
+🎯 **AI + Web Developer | MERN Developer | Java Programmer |cHackathon Enthusiast ** 
+⚡ **Management Head @ Hashtag Technical Society ** 
 
 ---
 
